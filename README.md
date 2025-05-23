@@ -78,11 +78,11 @@ Puis ouvre : http://localhost:5000
 
 ### Interface CLI / TUI
 
-![CLI Screenshot](https://c.top4top.io/p_3430kmiih0.jpg)
+![CLI Screenshot](https://d.top4top.io/p_3430vfdpe1.jpg)
 
 ### Interface Web
 
-![Web Screenshot](https://d.top4top.io/p_3430vfdpe1.jpg)
+![Web Screenshot](https://c.top4top.io/p_3430kmiih0.jpg)
 
 ---
 
